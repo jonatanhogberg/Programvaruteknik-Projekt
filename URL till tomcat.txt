@@ -1,0 +1,1 @@
+http://localhost:8080/Projekt_Programvaruteknik/ServletTest?datasource1=static&datasource2=gold&pretty=true
