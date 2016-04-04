@@ -8,7 +8,7 @@ public class DataCollection {
 	private Map<String, MatchedDataPair> data;
 	private String title;
 	private String xUnit;
-	private String yUnit;
+	private String yUnit; 
 	
 	public DataCollection(String title, String xUnit, String yUnit, Map<String, MatchedDataPair> data) {
 		this.title = title;
